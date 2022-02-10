@@ -1,4 +1,4 @@
-# PACMAN MOMENT
+# PACMAN MOVEMENT
 The Project name is Simulation Schedueler.
 The project was moving pacmen from one position to another position.
 When it reaches its partiicular position it should in the same way.
